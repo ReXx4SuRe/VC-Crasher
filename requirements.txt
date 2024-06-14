@@ -1,0 +1,5 @@
+requests
+discord
+pystyle
+colorama
+datetime
